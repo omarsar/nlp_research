@@ -16,7 +16,8 @@ In this repository I will be hosting all my paper reviews and summaries for the 
 - [Detecting Linguistic Characteristics of Alzheimer’s Dementia by Interpreting Neural Models](https://github.com/omarsar/nlp_research/blob/master/Noun-Compound%20Classification/Olive-Oil-is-Made-of-Olives-Baby-Oil-is-Made-for-Babies-Interpreting-Noun-Compounds-using-Paraphrases-in-a-Neura.md)
 
 **Affective Computing**
-- [A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks]()
+
+- [A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks](https://github.com/omarsar/nlp_research/blob/master/Affective%20Computing/A-Deeper-Look-into-Sarcastic-Tweets-Using-Deep-Convolutional-Neural-Networks.md)
 
 ### Make suggestions
 If you would like to suggest a paper for me to summarize, feel free to leave an issue. 
