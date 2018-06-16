@@ -11,7 +11,7 @@ In this repository I will be hosting all my paper reviews and summaries for the 
 **Computational Health**
 - [Olive Oil is Made of Olives, Baby Oil is Made for Babies: Interpreting Noun Compounds using Paraphrases in a Neural Model](https://github.com/omarsar/nlp_research/blob/master/Computational%20Health/Detecting-Linguistic-Characteristics-of-Alzheimers-Dementia-by-Interpreting-Neural-Models.md)
 
-- [Exploring Emoji Usage and Prediction Through a Temporal Variation Lens]()
+- [Exploring Emoji Usage and Prediction Through a Temporal Variation Lens](https://github.com/omarsar/nlp_research/blob/master/Affective%20Computing/Exploring-Emoji-Usage-and-Prediction-Through-a-Temporal-Variation-Lens.md)
 
 **Noun-Compound Classification**
 
